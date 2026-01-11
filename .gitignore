@@ -208,3 +208,6 @@ __marimo__/
 
 # Remove Videos
 /videos
+
+# Remove DS_store
+.DS_Store
